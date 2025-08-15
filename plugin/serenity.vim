@@ -1,0 +1,1 @@
+command! Serenity colorscheme serenity
