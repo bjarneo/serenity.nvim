@@ -6,10 +6,10 @@ A simple, elegant, and dark theme for Neovim.
   <img src="theme.png" alt="Serenity Theme Preview">
 </p>
 
-> A quiet mind, a steady hand,
-> Across the code, a peaceful land.
-> No raging seas, no fiery gleam,
-> Just the calm flow of a gentle stream.
+> A quiet mind, a steady hand,  
+> Across the code, a peaceful land.  
+> No raging seas, no fiery gleam,  
+> Just the calm flow of a gentle stream.  
 
 ## Installation
 
